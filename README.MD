@@ -1,5 +1,11 @@
 # DB Design Assignments
 
+### 03-Clinic Appointment and Diagnostics Platform
+[ER Diagram](./03ClinicAppointment/ClinicAppointment.png) <br>
+
+[Details](./03ClinicAppointment/README.md) about the assignment
+<hr>
+
 ### 02-Fitness Influencer Coaching Platform
 [ER Diagram](./02Fitness_Influencer/coaching_platform.png) <br>
 
