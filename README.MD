@@ -1,5 +1,11 @@
 # DB Design Assignments
 
+### 04-Comic Con Parking System
+[ER Diagram](./04Comic_Con_Parking_System/parking_system.png) <br>
+
+[Details](./04Comic_Con_Parking_System/README.md) about the assignment
+<hr>
+
 ### 03-Clinic Appointment and Diagnostics Platform
 [ER Diagram](./03ClinicAppointment/ClinicAppointment.png) <br>
 
