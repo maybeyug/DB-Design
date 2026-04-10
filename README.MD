@@ -1,5 +1,11 @@
 # DB Design Assignments
 
+### 05-Smart Elevator Control
+[ER Diagram](./05Smart_elevator_control/smart_elevator_design.png) <br>
+
+[Details](./05Smart_elevator_control/README.md) about the assignment
+<hr>
+
 ### 04-Comic Con Parking System
 [ER Diagram](./04Comic_Con_Parking_System/parking_system.png) <br>
 
